@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-journal-app/static/css/main.b7cc8429.chunk.css",
+    "main.js": "/react-journal-app/static/js/main.3c7e04e3.chunk.js",
+    "main.js.map": "/react-journal-app/static/js/main.3c7e04e3.chunk.js.map",
+    "runtime~main.js": "/react-journal-app/static/js/runtime~main.643da0d3.js",
+    "runtime~main.js.map": "/react-journal-app/static/js/runtime~main.643da0d3.js.map",
+    "static/js/2.72db6d19.chunk.js": "/react-journal-app/static/js/2.72db6d19.chunk.js",
+    "static/js/2.72db6d19.chunk.js.map": "/react-journal-app/static/js/2.72db6d19.chunk.js.map",
+    "index.html": "/react-journal-app/index.html",
+    "precache-manifest.2a4164669a1c94701517e1913631c8bb.js": "/react-journal-app/precache-manifest.2a4164669a1c94701517e1913631c8bb.js",
+    "service-worker.js": "/react-journal-app/service-worker.js",
+    "static/css/main.b7cc8429.chunk.css.map": "/react-journal-app/static/css/main.b7cc8429.chunk.css.map"
+  }
+}
