@@ -1,0 +1,15 @@
+.App {
+  background-color: #d3d3d3;
+  font-family: sans-serif;
+  /* text-align: center; */
+}
+h1 {
+  text-align: center;
+}
+.left-scroll {
+  height: 90vh;
+  overflow-y: scroll;
+}
+.box-shadow {
+  box-shadow: 10px 5px 5px #d3d3d3;
+}
